@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "react-test",
   "version": "1.0.0",
   "description": "react-test",
   "main": "index.js",
@@ -19,6 +19,10 @@
     "url": "https://github.com/junisportfolio/react/issues"
   },
   "homepage": "https://github.com/junisportfolio/react#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.0",
